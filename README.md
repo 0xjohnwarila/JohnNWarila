@@ -2,7 +2,7 @@
 
 I am a software intern currently working at [Electric Era](https://electriceratechnologies.com).
 
-Before I worked at [HazAdapt](https://www.hazadapt.com) doing more mobile and internet things.
+Before I worked at [HazAdapt](https://www.hazadapt.com) doing mobile and internet things.
 
 <!--
 **JohnNWarila/JohnNWarila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
