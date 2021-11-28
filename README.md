@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am a software engineer currently working at [Electric Era](https://electriceratechnologies.com).
 
 
